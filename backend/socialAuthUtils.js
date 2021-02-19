@@ -1,4 +1,4 @@
-var GOOGLE_CLIENT_ID = "946919316367-1rmv0p152mvi0sdrqhcuqr8pn5gia1en.apps.googleusercontent.com"
+var GOOGLE_CLIENT_ID = "-.apps.googleusercontent.com"
 const { OAuth2Client } = require('google-auth-library');
 const client = new OAuth2Client(GOOGLE_CLIENT_ID);
 
